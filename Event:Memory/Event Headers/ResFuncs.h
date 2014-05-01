@@ -1,0 +1,1 @@
+//m:Event/Memory:Event Headers:ResFuncs.h/*		ResFuncs.c				*/extern	Handle				GrabResource(ResType,short,unsigned char*,long);

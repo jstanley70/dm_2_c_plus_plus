@@ -1,0 +1,1 @@
+// EL_TextureObj.cp// Created by jstanly on Thu, Jan 11, 1996 @ 11:14 AM.#ifndef __TextureObj__#include "TextureObj.h"#endifTextureObj::TextureObj() {}TextureObj::~TextureObj(){}#pragma segment Mainvoid			TextureObj::MyCalculate(void)//Override{	StereoObject::MyCalculate ();}

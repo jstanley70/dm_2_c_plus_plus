@@ -1,0 +1,1 @@
+OSErr ReadNavOpen(const FSSpecPtr defaultLocationfssPtr,OSType fileType);short	DoOpenFile(FSSpec		*theFss);OSErr SaveNavOpen(WindowPtr theDocument,OSType	fileTypeToSave);OSErr WriteNewFile(FSSpec* documentFSSpec,OSType fileTypeToSave,NavReplyRecord reply);

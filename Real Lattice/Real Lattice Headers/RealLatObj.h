@@ -1,0 +1,1 @@
+//m:Real Lattice:Real Lattice Headers:RealLatObj.hstruct RealLatObj:StereoObject{	Boolean	DoInit();};

@@ -1,0 +1,1 @@
+extern int cg_(integer *nm, integer *n, real *ar, real *ai, real *wr, real *wi, integer *matz, real *zr, real *zi, real *fv1, real *fv2, real *fv3, integer *ierr);/*:ref: cbal_ 14 7 4 4 6 6 4 4 6 *//*:ref: corth_ 14 8 4 4 4 4 6 6 6 6 *//*:ref: comqr_ 14 9 4 4 4 4 6 6 6 6 4 *//*:ref: comqr2_ 14 13 4 4 4 4 6 6 6 6 6 6 6 6 4 *//*:ref: cbabk2_ 14 8 4 4 4 4 6 4 6 6 */

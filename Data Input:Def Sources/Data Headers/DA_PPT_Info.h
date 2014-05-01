@@ -1,0 +1,1 @@
+#ifndef	__DA_PPT_INFO__	#define	__DA_PPT_INFO__	enum {				DO_MENU = -2,			PPT_DUMMY_1 = 3,			PPT_DUMMY_2,			LOAD_PPT,			DUMP_PPT,			SET_NUM_ORS,			VARIANTS,			INTENSITY,			THE_LIST_DATA,			THE_CHECK_BOX,			DELETE,			THE_LIST_RECT,			THE_SCROLL_RECT		};			enum {	NUMBER,			PARALLEL,			MATRIX_INDEX,			PPT_INDEX,			ROTATION,			OFF_ROTATION		};#endif

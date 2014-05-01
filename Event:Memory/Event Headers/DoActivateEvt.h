@@ -1,0 +1,1 @@
+//s.Jim:Event/Memory:Event Headers:DoActivateEvt.h/*		DoActivateEvt.c			*/extern	void				DoActivate(void);extern	void				DoDeactivate(void);extern	void				CloseTheObject(WindowPtr);extern	void				CloseAllObjects(void);extern	void				SetTopWindow(WindowPtr);extern  void				CloseOrphan(Ptr theObj);

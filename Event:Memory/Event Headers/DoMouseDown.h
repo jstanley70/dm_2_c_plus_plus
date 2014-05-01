@@ -1,0 +1,1 @@
+//s.Jim:Event/Memory:Event Headers:DoMouseDown.h/*		DoMouseDown.c			*/extern	void				DoMouseDown(EventRecord*);

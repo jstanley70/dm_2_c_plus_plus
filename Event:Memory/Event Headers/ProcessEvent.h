@@ -1,0 +1,1 @@
+//m:Event/Memory:Event Headers:ProcessEvent.h/*		ProcessEvent.c			*/extern	void				CSwitchboard(void);extern	void				DoResume(void);extern	void				DoSuspend(void);

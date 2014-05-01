@@ -1,0 +1,1 @@
+//m:Event/Memory:Event Headers:PrintFuncs.h/*		PrintFuncs.c			*/extern	void				SetupPage(void);/*								*/

@@ -1,0 +1,1 @@
+//s.Jim:Event/Memory:EV_PrintFuncs.c#include	"Diffract_INCs.h"void SetupPage(){	PrintDefault (gPrintRecHandle);	if(PrValidate(gPrintRecHandle)){		ChangedResource((Handle)gPrintRecHandle);		WriteResource((Handle)gPrintRecHandle);	}			if(PrStlDialog(gPrintRecHandle)){		ChangedResource((Handle)gPrintRecHandle);		WriteResource((Handle)gPrintRecHandle);	}}

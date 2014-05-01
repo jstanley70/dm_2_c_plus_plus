@@ -1,0 +1,1 @@
+// RockingCurves.h// Created by jstanly on Thu, Sep 7, 1995 @ 2:05 PM.#ifndef __RockingCurves__#define __RockingCurves__#ifndef __DiffractometerObj__#include "DiffractometerObj.h"#endifclass RockingCurves : public DiffractometerObj{public:	RockingCurves();	virtual ~RockingCurves();	void  MyCalculate  (void); //Override};#endif

@@ -1,0 +1,1 @@
+//ects:D.M. v2.0:Sources.Jim:GraphicsObj:GraphicsObj Headers:TextStuff.h/*		TextStuff.c				*/void				DrawDiffractString(unsigned char*  theText);

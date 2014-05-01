@@ -1,0 +1,1 @@
+//m:Event/Memory:Event Headers:Memory_Macros.h#define TEST_HANDLE							\	if(data_Count >= data_Length){			\		ExpandMemory();						\		if(data_Count >= data_Length){		\			SysBeep(30);					\			data_Count--;					\		}									\	}										\

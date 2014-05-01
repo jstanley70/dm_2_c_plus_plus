@@ -1,0 +1,1 @@
+	#ifndef __ML_KIKUCHI__#define	__ML_KIKUCHI__		#include "ML_Multilog.h"void		ML_DoKikuchiObjectSetup(Ptr owner,DialogPtr theDialog,Ptr	*paramBlock);void		ML_DoKikuchiObjectHit(Ptr	owner,DialogPtr theDialog, short theSelect,	Ptr	paramBlock);void		ML_DoKikuchiObjectRead(Ptr owner,DialogPtr theDialog,Ptr	paramBlock,Boolean saveData);	#endif

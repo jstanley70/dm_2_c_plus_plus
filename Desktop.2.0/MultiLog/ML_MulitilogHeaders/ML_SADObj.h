@@ -1,0 +1,1 @@
+#ifndef __ML_SADOBJ__#define	__ML_SADOBJ__		#include "ML_Multilog.h"	void		ML_DoSADObjSetup(Ptr owner,DialogPtr theDialog,Ptr	*paramBlock);	void		ML_DoSADObjHit(Ptr	owner,DialogPtr theDialog, short theSelect,	Ptr	paramBlock);	void		ML_DoSADObjRead(Ptr owner,DialogPtr theDialog,Ptr	paramBlock,Boolean saveData);	#endif

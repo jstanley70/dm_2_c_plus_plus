@@ -1,0 +1,1 @@
+//s.Jim:Data Input/Def Sources:Data Headers:elementInfoObj.h#ifndef _ELEINFODEF#define _ELEINFODEF#include "alloyCompEnt.h" #pragma def_inherited onclass ElementInfoObj:public AlloyCompDef{public:/*Alloy*/	void	Init();/*Alloy*/	Boolean	DoDefine(void);};#endif

@@ -1,0 +1,1 @@
+#ifndef __ML_HOLZOBJ__#define	__ML_HOLZOBJ__		#include "ML_Multilog.h"	void		ML_DoHOLZObjSetup(Ptr owner,DialogPtr theDialog,Ptr	*paramBlock);	void		ML_DoHOLZObjHit(Ptr	owner,DialogPtr theDialog, short theSelect,	Ptr	paramBlock);	void		ML_DoHOLZObjRead(Ptr owner,DialogPtr theDialog,Ptr	paramBlock,Boolean saveData);	#endif

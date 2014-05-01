@@ -1,0 +1,1 @@
+#ifndef __ML_DIR_TAB__#define	__ML_DIR_TAB__	#include "ML_Multilog.h"	void		ML_DoAngleDirObjSetup(Ptr owner,DialogPtr theDialog,Ptr	*paramBlock);	void		ML_DoAngleDirObjHit(Ptr	owner,DialogPtr theDialog, short theSelect,	Ptr	paramBlock);	void		ML_DoAngleDirObjRead(Ptr owner,DialogPtr theDialog,Ptr	paramBlock,Boolean saveData);	#endif

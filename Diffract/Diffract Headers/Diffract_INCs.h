@@ -1,0 +1,1 @@
+//cts:D.M. v2.0:Sources.Jim:Diffract:Diffract Headers:Diffract_INCs.h#ifndef		_DIFINCS_	#define	_DIFINCS_	#include	"a_Messages.h"		#include	"GlobalVariables.h"	#include	"GlobalVariables_Jim.h"	#include	"GlobalVariables_Jim_2.h"	#include	"a_Diffract_Defs_Jim.h"		#include	"a_Diffract_Defs_Jim_2.h"	#include	"a_Diffract_Defs.h"#endif

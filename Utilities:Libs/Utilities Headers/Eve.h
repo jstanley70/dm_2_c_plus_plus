@@ -1,0 +1,1 @@
+extern pascal int EVEReset(void);extern pascal int EVEStatus(void);extern pascal int EVEEnable(char*); extern pascal int EVEReadCTR(void);extern pascal int EVEChallenge(int l, int v); extern pascal int EVEReadGPR(int r);extern pascal int EVEWriteGPR(int r,int v); extern pascal int EVESetLock(int l,int c,int r); 

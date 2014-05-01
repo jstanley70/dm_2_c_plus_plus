@@ -1,0 +1,1 @@
+Ptr AllocOneDisObj(void){	return (Ptr)0L;}Ptr AllocTwoDisObj(void){	return (Ptr)0L;	}Ptr AllocMonteCarloObj(void){	return (Ptr)0L;}Ptr	AllocMicrographObj(void){	return (Ptr)0L;}

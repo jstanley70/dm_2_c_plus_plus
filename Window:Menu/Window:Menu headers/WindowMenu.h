@@ -1,0 +1,1 @@
+//ects:D.M. v2.0:Sources.Jim:Window/Menu:Window/Menu headers:WindowMenu.h#ifndef _DM_WINDOW_MENU	#define _DM_WINDOW_MENU	#include	"Diffract_INCs.h"			void	SetWindowMenu(void);	void	CheckWindowMenu(void);	void	ActivateMyWindow(short selected);#endif

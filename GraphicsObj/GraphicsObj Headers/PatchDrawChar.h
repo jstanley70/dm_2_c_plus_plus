@@ -1,0 +1,1 @@
+#ifndef _PATCH_DRAWCHAR 	#define _PATCH_DRAWCHAR	DialogPtr  		GetNewDialog_P(short,Ptr,WindowPtr);	void			DisposDialog_P(DialogPtr);	void			PatchDrawChar(short* count);	void			UnpatchDrawChar(short* count);	pascal void		NewDrawChar(char theChar);#endif

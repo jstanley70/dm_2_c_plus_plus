@@ -1,0 +1,1 @@
+// TextureObj.h// Created by jstanly on Thu, Jan 11, 1996 @ 11:14 AM.#ifndef __TextureObj__#define __TextureObj__#ifndef __StereoObject__#include "StereoObject.h"#endifclass TextureObj : public StereoObject{public:	TextureObj();	virtual ~TextureObj();	void			MyCalculate(void); //Override};#endif

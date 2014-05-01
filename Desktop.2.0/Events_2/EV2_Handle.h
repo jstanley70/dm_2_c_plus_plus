@@ -1,0 +1,1 @@
+	void	D_ExpandMemory(Handle *theDataHandle,long *data_Count,long *data_length,long data_Size,long data_Expand);	/*  Object memory expansion			*/	void	qHandlesort(void** theDataHandle,long total,long sizeOf,_compare_function/*__cmp_func_Cmpfun**/ theFunction);

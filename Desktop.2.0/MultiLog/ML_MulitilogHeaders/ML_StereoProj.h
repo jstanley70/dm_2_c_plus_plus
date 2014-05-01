@@ -1,0 +1,1 @@
+#ifndef __ML_STEREO_PROJ__	#define	__ML_STEREO_PROJ__		#include "StereoObject.h"	#include "ML_Multilog.h"		void				DoSPSetup(Ptr	owner,DialogPtr theDialog,Ptr *theParams);	void				DoSPHit(Ptr	owner,DialogPtr theDialog, short theSelect,Ptr theParams);	void				DoSPRead(Ptr	owner,DialogPtr theDialog,Ptr theParams,Boolean saveData);	#endif

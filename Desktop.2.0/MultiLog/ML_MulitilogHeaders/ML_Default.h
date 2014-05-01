@@ -1,0 +1,1 @@
+#include	"Diffract_INCs.h"#ifndef __ML_DEFAULT__#define	__ML_DEFAULT__		#include "ML_Multilog.h"	void		ML_DoDefaultSetup(Ptr owner,DialogPtr theDialog,Ptr	*paramBlock);	void		ML_DoDefaultHit(Ptr	owner,DialogPtr theDialog, short theSelect,	Ptr	paramBlock);	void		ML_DoDefaultRead(Ptr owner,DialogPtr theDialog,Ptr	paramBlock,Boolean saveData);#endif

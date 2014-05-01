@@ -1,0 +1,1 @@
+#ifndef __ML_MISC_PLOT__#define	__ML_MISC_PLOT__		#include "ML_Multilog.h"	void		ML_SetMiscParam(Ptr owner,DialogPtr theDialog,Ptr	*paramBlock);	void		ML_SwitchMiscParam(Ptr	owner,DialogPtr theDialog, short theSelect,	Ptr	paramBlock);	void		ML_ReadMiscParam(Ptr owner,DialogPtr theDialog,Ptr	paramBlock,Boolean saveData);#endif

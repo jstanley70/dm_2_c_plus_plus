@@ -1,0 +1,1 @@
+#ifndef __ML_DIFFRACTOMETER__#define	__ML_DIFFRACTOMETER__		#include "ML_Multilog.h"	void		ML_DoDiffractometerObjSetup(Ptr owner,DialogPtr theDialog,Ptr	*paramBlock);	void		ML_DoDiffractometerObjHit(Ptr	owner,DialogPtr theDialog, short theSelect,	Ptr	paramBlock);	void		ML_DoDiffractometerObjRead(Ptr owner,DialogPtr theDialog,Ptr	paramBlock,Boolean saveData);	#endif

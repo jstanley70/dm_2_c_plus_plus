@@ -1,0 +1,1 @@
+#ifndef __ML_PERIOD_TAB__#define	__ML_PERIOD_TAB__		void		ML_DoPeriodicitySetup(Ptr owner,DialogPtr theDialog,Ptr	*paramBlock);	void		ML_DoPeriodicityHit(Ptr	owner,DialogPtr theDialog, short theSelect,	Ptr	paramBlock);	void		ML_DoPeriodicityRead(Ptr owner,DialogPtr theDialog,Ptr	paramBlock,Boolean saveData);	#endif

@@ -1,0 +1,1 @@
+/*  This will hold any Additional include files that are needed throughout Diffractfrom the hand of J.T. */#include "DiffractInits_Jim.h"#include "JimsLib.h"#include "DialogLib.h"#include "atomicAbsorp.h"#include "SADObj.h"#include "SearchObject.h"#include "SearchObject.h"//#include <Threads.h>//#include "ThreadsObj.h"

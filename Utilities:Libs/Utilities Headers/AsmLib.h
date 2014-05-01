@@ -1,0 +1,1 @@
+double	StructureFactor(double,double,double,double*,double*,double*,long,double*);#ifndef	_ASMLIB#define	_ASMLIB 10#include	"UT_Asm_Macros.c"#endif

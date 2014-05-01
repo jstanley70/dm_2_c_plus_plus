@@ -1,0 +1,1 @@
+long OpenResourceFile(void);long OpenResourceFile(void){	long n;/*		n = OpenResFile("\pEricRes");	n = OpenResFile("\pJimRes");*/	n = OpenResFile("\pResourceV1");	return n;}

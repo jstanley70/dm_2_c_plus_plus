@@ -1,0 +1,1 @@
+#include 	"DiffractV2Header"long OpenResourceFile(void);long OpenResourceFile(void){	long n = 0;/*		n = OpenResFile("\pEricRes");	n = OpenResFile("\pJimRes");*/	/*n = OpenResFile("\pResourceV2");*/	return n;}
